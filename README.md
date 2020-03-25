@@ -6,5 +6,5 @@ Materiály pro kroužek programování na dálku pro děti ze základní školy 
 Kroužky probíhají prostřednictvím programu [Cisco WebEx](https://www.webex.com/video-conferencing)
 a zde je [video návod k jeho instalaci a použití](https://youtu.be/m9HR9bGxEZY).
 
-## Hodiny
+## Lekce
 - [Programování ve Scratchi](scratch/README.md)
