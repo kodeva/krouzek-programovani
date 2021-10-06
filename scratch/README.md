@@ -13,6 +13,9 @@ Projekty s hotovými úkoly zmiňované v lekci jsou:
 - [Dvojité schody](https://scratch.mit.edu/projects/379431955/).
 - [Pavouk plete pavučinu](https://scratch.mit.edu/projects/379428674/).
 
+Další projekty:
+- [Malování květin](https://scratch.mit.edu/projects/394906270/fullscreen/)
+
 
 ### Razítkovací editor
 
