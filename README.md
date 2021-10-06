@@ -5,6 +5,11 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+<!---
+### 13.10.2021
+1. [Code.org - kurz](https://studio.code.org/s/express-2021/lessons/1/levels/2)
+-->
+
 ### 6.10.2021
 1. GCompris
 2. [Code.org - taneční věčírek](https://studio.code.org/s/dance-2019/stage/1/puzzle/1)
