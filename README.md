@@ -5,10 +5,9 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
-<!---
 ### 13.10.2021
 1. [Code.org - kurz](https://studio.code.org/s/express-2021/lessons/1/levels/2)
--->
+2. [Pac-Man (hra na konec)](https://scratch.mit.edu/projects/254234311/fullscreen/)
 
 ### 6.10.2021
 1. GCompris
