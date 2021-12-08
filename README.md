@@ -5,6 +5,10 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 8.12.2021
+1. Programování ve Scratch
+   - [Kreslení vloček](https://scratch.mit.edu/projects/613433973)
+
 ### 3.11.2021
 1. Programování robota rozsvěcovače:
    - [Lightbot](https://www.gameflare.com/online-game/light-bot/)
