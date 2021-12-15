@@ -5,6 +5,10 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 15.12.2021
+1. Programování ve Scratch
+   - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963)
+
 ### 8.12.2021
 1. Programování ve Scratch
    - [Kreslení vloček](https://scratch.mit.edu/projects/613433973)
