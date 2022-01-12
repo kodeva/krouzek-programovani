@@ -5,6 +5,10 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 12.1.2022
+1. Programování ve Scratch
+   - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211)
+
 ### 15.12.2021
 1. Programování ve Scratch
    - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963)
