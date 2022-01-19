@@ -5,9 +5,18 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 19.1.2022
+1. Programování ve Scratch
+   - Skupina 1 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211)
+   - Skupina 2 - [Kočka honí myš](https://scratch.mit.edu/projects/629705940)
+2. Hra na konec:
+   - [River Raid](https://scratch.mit.edu/projects/20428294/fullscreen/)
+   - [Frogger](https://scratch.mit.edu/projects/12221773/fullscreen/)
+
 ### 12.1.2022
 1. Programování ve Scratch
-   - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211)
+   - Skupina 1 - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963)
+   - Skupina 2 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211)
 
 ### 15.12.2021
 1. Programování ve Scratch
@@ -22,7 +31,7 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
    - [Lightbot](https://www.gameflare.com/online-game/light-bot/)
    - nebo [jiný Lightbot](https://www.lightbot.lu/)
 2. Hra na konec:
-   - logická [Tetris (hra na konec)](https://scratch.mit.edu/projects/21239656/fullscreen/)
+   - logická [Tetris](https://scratch.mit.edu/projects/21239656/fullscreen/)
    - nebo plošinovka [Super Mario](https://scratch.mit.edu/projects/2176968/fullscreen/) 
 
 ### 13.10.2021
