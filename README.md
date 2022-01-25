@@ -5,9 +5,17 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 26.1.2022
+1. Programování ve Scratch
+   - Skupina 1 - [Kočka honí myš](https://scratch.mit.edu/projects/629705940/editor/)
+   - Skupina 2 - [Chodící Pacman](https://scratch.mit.edu/projects/633901415/editor/)
+
+2. Hra na konec:
+   - [Space Invaders](https://scratch.mit.edu/projects/46553046/fullscreen/)
+
 ### 19.1.2022
 1. Programování ve Scratch
-   - Skupina 1 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211)
+   - Skupina 1 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211/editor/)
    - Skupina 2 - [Kočka honí myš](https://scratch.mit.edu/projects/629705940)
 2. Hra na konec:
    - [River Raid](https://scratch.mit.edu/projects/20428294/fullscreen/)
@@ -15,16 +23,16 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ### 12.1.2022
 1. Programování ve Scratch
-   - Skupina 1 - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963)
-   - Skupina 2 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211)
+   - Skupina 1 - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963/editor/)
+   - Skupina 2 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211/editor/)
 
 ### 15.12.2021
 1. Programování ve Scratch
-   - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963)
+   - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963/editor/)
 
 ### 8.12.2021
 1. Programování ve Scratch
-   - [Kreslení vloček](https://scratch.mit.edu/projects/613433973)
+   - [Kreslení vloček](https://scratch.mit.edu/projects/613433973/editor/)
 
 ### 3.11.2021
 1. Programování robota rozsvěcovače:
