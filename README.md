@@ -5,11 +5,19 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 2.2.2022
+1. Programování ve Scratch
+   - Skupina 1 - [Chodící Pacman](https://scratch.mit.edu/projects/633901415/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/633873467/fullscreen/))
+   - Skupina 2 - [Bludiště](https://scratch.mit.edu/projects/636345783/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/635428934/fullscreen/))
+
 ### 26.1.2022
 1. Programování ve Scratch
    - Skupina 1 - [Kočka honí myš](https://scratch.mit.edu/projects/629705940/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/629703650/fullscreen/))
    - Skupina 2 - [Chodící Pacman](https://scratch.mit.edu/projects/633901415/editor/)
-
+     ([Tahák](https://scratch.mit.edu/projects/633873467/fullscreen/))
 2. Hra na konec:
    - [Space Invaders](https://scratch.mit.edu/projects/46553046/fullscreen/)
 
@@ -17,6 +25,7 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 1. Programování ve Scratch
    - Skupina 1 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211/editor/)
    - Skupina 2 - [Kočka honí myš](https://scratch.mit.edu/projects/629705940)
+     ([Tahák](https://scratch.mit.edu/projects/629703650/fullscreen/))
 2. Hra na konec:
    - [River Raid](https://scratch.mit.edu/projects/20428294/fullscreen/)
    - [Frogger](https://scratch.mit.edu/projects/12221773/fullscreen/)
@@ -24,12 +33,14 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 ### 12.1.2022
 1. Programování ve Scratch
    - Skupina 1 - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/617285613/fullscreen/))
    - Skupina 2 - [Rozhovor skřítka s obrem](https://scratch.mit.edu/projects/627204211/editor/)
 
 ### 15.12.2021
 1. Programování ve Scratch
    - [Kočka na jevišti](https://scratch.mit.edu/projects/617311963/editor/)
-
+     ([Tahák](https://scratch.mit.edu/projects/617285613/fullscreen/))
+ 
 ### 8.12.2021
 1. Programování ve Scratch
    - [Kreslení vloček](https://scratch.mit.edu/projects/613433973/editor/)
