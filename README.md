@@ -5,11 +5,18 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 16.2.2022
+1. Programování ve Scratch
+   - Skupina 1 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/641432142/fullscreen/))
+   - Skupina 2 - [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/645380572/fullscreen/))
+
 ### 9.2.2022
 1. Programování ve Scratch
    - Skupina 1 - [Bludiště](https://scratch.mit.edu/projects/636345783/editor/)
      ([Tahák](https://scratch.mit.edu/projects/635428934/fullscreen/))
-   - Skupina 2 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor)
+   - Skupina 2 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor/)
      ([Tahák](https://scratch.mit.edu/projects/641432142/fullscreen/))
 
 ### 2.2.2022
