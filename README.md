@@ -5,6 +5,11 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 23.2.2022
+1. Programování ve Scratch
+   - Skupina 1 - [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/645380572/fullscreen/))
+
 ### 16.2.2022
 1. Programování ve Scratch
    - Skupina 1 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor/)
