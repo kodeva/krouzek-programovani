@@ -5,9 +5,15 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+
+### 6.4.2022
+1. Programování ve Scratch
+   - [Kocour chyta hodne mysi](https://scratch.mit.edu/projects/672016060/editor/)
+     ([Tahák](https://scratch.mit.edu/projects/672009104/fullscreen/))
+
 ### 23.2.2022
 1. Programování ve Scratch
-   - Skupina 1 - [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
+   - [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
      ([Tahák](https://scratch.mit.edu/projects/645380572/fullscreen/))
 
 ### 16.2.2022
