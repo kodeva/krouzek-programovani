@@ -6,36 +6,40 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 ## Program hodin
 
 
+### 13.4.2022
+Programování vozítka Qdee
+- [Různé příkazy pro Qdee na seznámení](https://makecode.microbit.org/#pub:_WzXDmP1M2Y4d)
+
 ### 6.4.2022
-1. Programování ve Scratch
-   - [Kocour chyta hodne mysi](https://scratch.mit.edu/projects/672016060/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/672009104/fullscreen/))
+Programování ve Scratch
+- [Kocour chyta hodne mysi](https://scratch.mit.edu/projects/672016060/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/672009104/fullscreen/))
 
 ### 23.2.2022
-1. Programování ve Scratch
-   - [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/645380572/fullscreen/))
+Programování ve Scratch
+- [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/645380572/fullscreen/))
 
 ### 16.2.2022
-1. Programování ve Scratch
-   - Skupina 1 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/641432142/fullscreen/))
-   - Skupina 2 - [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/645380572/fullscreen/))
+Programování ve Scratch
+- Skupina 1 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/641432142/fullscreen/))
+- Skupina 2 - [Balon honi kocoura](https://scratch.mit.edu/projects/645384274/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/645380572/fullscreen/))
 
 ### 9.2.2022
-1. Programování ve Scratch
-   - Skupina 1 - [Bludiště](https://scratch.mit.edu/projects/636345783/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/635428934/fullscreen/))
-   - Skupina 2 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/641432142/fullscreen/))
+Programování ve Scratch
+- Skupina 1 - [Bludiště](https://scratch.mit.edu/projects/636345783/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/635428934/fullscreen/))
+- Skupina 2 - [Nebezpecny prechod](https://scratch.mit.edu/projects/641443830/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/641432142/fullscreen/))
 
 ### 2.2.2022
-1. Programování ve Scratch
-   - Skupina 1 - [Chodící Pacman](https://scratch.mit.edu/projects/633901415/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/633873467/fullscreen/))
-   - Skupina 2 - [Bludiště](https://scratch.mit.edu/projects/636345783/editor/)
-     ([Tahák](https://scratch.mit.edu/projects/635428934/fullscreen/))
+Programování ve Scratch
+- Skupina 1 - [Chodící Pacman](https://scratch.mit.edu/projects/633901415/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/633873467/fullscreen/))
+- Skupina 2 - [Bludiště](https://scratch.mit.edu/projects/636345783/editor/)
+  ([Tahák](https://scratch.mit.edu/projects/635428934/fullscreen/))
 
 ### 26.1.2022
 1. Programování ve Scratch
