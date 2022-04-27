@@ -6,6 +6,10 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 ## Program hodin
 
 
+### 27.4.2022
+Programování vozítka Qdee - detekce překážek
+- [Různé příkazy pro Qdee na seznámení](https://makecode.microbit.org/#pub:_2VFic904AgRf)
+
 ### 13.4.2022
 Programování vozítka Qdee
 - [Různé příkazy pro Qdee na seznámení](https://makecode.microbit.org/#pub:_WzXDmP1M2Y4d)
