@@ -6,13 +6,17 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 ## Program hodin
 
 
+### 4.5.2022
+Programování vozítka Qdee - detekce překážek
+- [Vylepšené příkazy pro pohyb a detekci překážek](https://makecode.microbit.org/#pub:_aAj9ps4xY8fh)
+
 ### 27.4.2022
 Programování vozítka Qdee - detekce překážek
-- [Různé příkazy pro Qdee na seznámení](https://makecode.microbit.org/#pub:_2VFic904AgRf)
+- [Příkazy pro pohyb a detekci překážek](https://makecode.microbit.org/#pub:_2VFic904AgRf)
 
 ### 13.4.2022
 Programování vozítka Qdee
-- [Různé příkazy pro Qdee na seznámení](https://makecode.microbit.org/#pub:_WzXDmP1M2Y4d)
+- [Základní příkazy pro pohyb](https://makecode.microbit.org/#pub:_WzXDmP1M2Y4d)
 
 ### 6.4.2022
 Programování ve Scratch
