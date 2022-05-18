@@ -5,6 +5,10 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 18.5.2022
+Programování micro:bit - display a senzor teploty
+- [micro:bit](https://makecode.microbit.org/#)
+
 ### 11.5.2022
 Programování vozítka Qdee - jízda po čáře
 - [Příkazy pro pohyb, detekci překážek a jízdu po čáře](https://makecode.microbit.org/#pub:_VuHiHadTzaxC)
