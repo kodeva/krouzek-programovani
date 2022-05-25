@@ -5,6 +5,10 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 25.5.2022
+Programování v Pythonu pomocí hry
+- [Code Combat - Kobky Kithgardu](https://codecombat.com/students?_cc=LeafNextLeg)
+
 ### 18.5.2022
 Programování micro:bit - display a senzor teploty
 - [micro:bit](https://makecode.microbit.org/#)
