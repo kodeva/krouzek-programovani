@@ -5,6 +5,16 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
+### 1.6.2022
+Programování v Pythonu pomocí hry
+- [Code Combat - Kobky Kithgardu](https://codecombat.com/students?_cc=LeafNextLeg)
+- [Ozaria](https://www.ozaria.com/students?_cc=SpoonShakeLife)
+
+Animág - soutěž animovaných filmů pro děti
+- [Kategorie 6-11 let](https://docs.google.com/forms/d/e/1FAIpQLSe2heboCaRiekrmTBdmlUJXh9LwsBzM3LOu9VU52-dmJ47k4Q/viewform)
+- [Kategorie 11-15 let](https://docs.google.com/forms/d/e/1FAIpQLSdMhztrjiFL0ZjhAfo9Qs4qm_s8wOG7sQc0ZbX6FwbhFQFCaw/viewform)
+- [Kategorie 15-19 let](https://docs.google.com/forms/d/e/1FAIpQLSfbnuzqPALaOX_uYrpG2A30dB54clTAEayx4gA6WUCnMzaHiQ/viewform)
+
 ### 25.5.2022
 Programování v Pythonu pomocí hry
 - [Code Combat - Kobky Kithgardu](https://codecombat.com/students?_cc=LeafNextLeg)
