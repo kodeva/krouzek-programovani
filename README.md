@@ -5,10 +5,11 @@ Založeno na materiálech od Mirka Suchého [Programování pro děti](https://g
 
 ## Program hodin
 
-### 5.4.2023
-- [Chytání dinosaura](https://scratch.mit.edu/projects/831299842/editor/)
-  ([Tahák](https://scratch.mit.edu/projects/831299842/fullscreen/))
+### 3.5.2023
+- [Hra - úvodní obrazovka](https://scratch.mit.edu/projects/844829074/fullscreen/)
 
+### 5.4.2023
+- [Chytání dinosaura](https://scratch.mit.edu/projects/831299842/fullscreen/)
 
 ### 1.6.2022
 Programování v Pythonu pomocí hry
